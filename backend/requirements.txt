@@ -1,0 +1,8 @@
+fastapi==0.115.6
+uvicorn==0.34.0
+pydantic==2.10.3
+python-multipart==0.0.18
+opencv-python==4.8.1.78
+Pillow==10.1.0
+ultralytics==8.4.50
+numpy<2.0

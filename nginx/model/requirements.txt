@@ -1,0 +1,13 @@
+torch==2.5.1
+torchvision==0.20.1
+ultralytics==8.3.48
+opencv-python==4.10.0.84
+numpy==1.26.4
+Pillow==11.0.0
+flask==3.1.0
+flask-cors==5.0.0
+scikit-image==0.24.0
+albumentations==1.4.22
+pyyaml==6.0.2
+tqdm==4.67.1
+matplotlib==3.9.3
